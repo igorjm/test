@@ -1,0 +1,432 @@
+{
+    "data": [
+      {
+        "Id": 703,
+        "AssetName": "Asset-Sale Term Loan",
+        "IssuerId": 205,
+        "HasEsmaData": false,
+        "DealIds": [
+          706
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "07014QAJ0",
+            "TypeId": 1
+          },
+          {
+            "Identifier": "LX156197",
+            "TypeId": 3
+          }
+        ]
+      },
+      {
+        "Id": 705,
+        "AssetName": "New Tem Loan (2015)",
+        "IssuerId": 205,
+        "HasEsmaData": false,
+        "DealIds": [
+          706
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "07014QAG6",
+            "TypeId": 1
+          },
+          {
+            "Identifier": "LX144858",
+            "TypeId": 3
+          }
+        ]
+      },
+      {
+        "Id": 965,
+        "AssetName": "Term Loan",
+        "IssuerId": 949,
+        "HasEsmaData": false,
+        "DealIds": [
+          740
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "00187UAB4",
+            "TypeId": 1
+          },
+          {
+            "Identifier": "LX163376",
+            "TypeId": 3
+          }
+        ]
+      },
+      {
+        "Id": 1130,
+        "AssetName": "Tranche B Term Loan ",
+        "IssuerId": 1063,
+        "HasEsmaData": false,
+        "DealIds": [
+          1181
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "LX136139",
+            "TypeId": 3
+          }
+        ]
+      },
+      {
+        "Id": 1576,
+        "AssetName": "Facility B1",
+        "IssuerId": 396,
+        "HasEsmaData": false,
+        "DealIds": [
+          2046
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": null,
+            "TypeId": 0
+          }
+        ]
+      },
+      {
+        "Id": 1577,
+        "AssetName": "Facility B2",
+        "IssuerId": 396,
+        "HasEsmaData": false,
+        "DealIds": [
+          2046
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": null,
+            "TypeId": 0
+          }
+        ]
+      },
+      {
+        "Id": 1578,
+        "AssetName": "Facility B3",
+        "IssuerId": 396,
+        "HasEsmaData": false,
+        "DealIds": [
+          2046
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": null,
+            "TypeId": 0
+          }
+        ]
+      },
+      {
+        "Id": 2134,
+        "AssetName": "VMED 4.5% Sr Unsecured Nts Due 2025 REGS",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "EK6938675",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2135,
+        "AssetName": "VMED 6.375% Sr Unsecured Nts Due 2023 144A",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "55181XAA0",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2136,
+        "AssetName": "4.875% - 02/2022",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "92769VAD1",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2137,
+        "AssetName": "5.250% - 02/2022",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "92769VAC3",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2138,
+        "AssetName": "5.500% - 08/2026 144A",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "92769XAM7",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2139,
+        "AssetName": "I Facility",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "G9368PAW4",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2140,
+        "AssetName": "J Facility",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "G9368PAX2",
+            "TypeId": 1
+          },
+          {
+            "Identifier": "LX159784",
+            "TypeId": 3
+          }
+        ]
+      },
+      {
+        "Id": 2141,
+        "AssetName": "VMED 5.25% Sr Secured Nts Due 2026 144A",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "92769XAL9",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2142,
+        "AssetName": "VMED 5.5% 1st lien Nts Due 2025 144A",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "92769XAJ4",
+            "TypeId": 1
+          }
+        ]
+      },
+      {
+        "Id": 2577,
+        "AssetName": "Term B Loan",
+        "IssuerId": 577,
+        "HasEsmaData": false,
+        "DealIds": [
+          3382
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "89668QAE8",
+            "TypeId": 1
+          },
+          {
+            "Identifier": "LX167948",
+            "TypeId": 3
+          },
+          {
+            "Identifier": "US89668QAE89",
+            "TypeId": 4
+          }
+        ]
+      },
+      {
+        "Id": 2827,
+        "AssetName": "Term Loan B",
+        "IssuerId": 1632,
+        "HasEsmaData": false,
+        "DealIds": [
+          4016
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": null,
+            "TypeId": 0
+          }
+        ]
+      },
+      {
+        "Id": 3272,
+        "AssetName": "VMED TL K 1L USD",
+        "IssuerId": 1143,
+        "HasEsmaData": false,
+        "DealIds": [
+          2867
+        ],
+        "Divisions": [
+          {
+            "DivisionId": 39,
+            "AssetName": null
+          }
+        ],
+        "Identifiers": [
+          {
+            "Identifier": "BBG00J59N3N6",
+            "TypeId": 2
+          },
+          {
+            "Identifier": "BL2561118",
+            "TypeId": 5
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,41 @@
+{
+    "data": [
+      {
+        "Id": 1,
+        "TypeName": "Agency"
+      },
+      {
+        "Id": 2,
+        "TypeName": "Syndicate"
+      },
+      {
+        "Id": 3,
+        "TypeName": "Bond"
+      },
+      {
+        "Id": 4,
+        "TypeName": "Secondary"
+      },
+      {
+        "Id": 5,
+        "TypeName": "Amendment"
+      },
+      {
+        "Id": 6,
+        "TypeName": "Ratings"
+      },
+      {
+        "Id": 7,
+        "TypeName": "Equity"
+      },
+      {
+        "Id": 8,
+        "TypeName": "Other"
+      },
+      {
+        "Id": -1,
+        "TypeName": "(blank)"
+      }
+    ]
+  }
+  

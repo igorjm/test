@@ -1,0 +1,41 @@
+{
+    "data": [
+      {
+        "Id": 308,
+        "IndustryName": "Autos (Demo)"
+      },
+      {
+        "Id": 303,
+        "IndustryName": "Consumer Products (Demo)"
+      },
+      {
+        "Id": 307,
+        "IndustryName": "Environment, Energy (Demo)"
+      },
+      {
+        "Id": 7,
+        "IndustryName": "figS"
+      },
+      {
+        "Id": 306,
+        "IndustryName": "Financial, Insurance, Real Estate (Demo)"
+      },
+      {
+        "Id": 309,
+        "IndustryName": "Healthcare (Demo)"
+      },
+      {
+        "Id": 302,
+        "IndustryName": "Retail (Demo)"
+      },
+      {
+        "Id": 305,
+        "IndustryName": "Services (Demo)"
+      },
+      {
+        "Id": 304,
+        "IndustryName": "Technology (Demo)"
+      }
+    ]
+  }
+  
