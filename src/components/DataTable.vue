@@ -75,6 +75,7 @@ export default {
       sortDirection: "asc",
       currentPage: 1,
       pageSize: 10,
+      searchText: '',
     };
   },
   computed: {
@@ -106,6 +107,16 @@ export default {
       });
 
       return rows;
+    },
+    filteredDeals() {
+      return this.displayedRows.filter(deal => {
+        return Object.values(deal).some(value => {
+          if (typeof value === 'string') {
+            return value.toLowerCase().includes(this.searchText.toLowerCase());
+          }
+          return false;
+        });
+      });
     },
   },
   methods: {
